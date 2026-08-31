@@ -1,28 +1,18 @@
 import numpy as np
 
-# Basic NumPy Practice
-arr = np.array([10, 20, 30, 40, 50])
+arr1 = np.array([5, 10, 15, 20, 25])
+print(arr1)
 
-# 1. Number of elements
-print("Number of elements:", arr.size)
+arr2 = np.array([100, 200, 300, 400, 500])
+print(arr2)
 
-# 2. Data type
-print("Data type:", arr.dtype)
+arr2d = np.array([[1, 2, 3], [4, 5, 6]])
+print(arr2d)
 
-# 3. First element
-print("First element:", arr[0])
+arr4 = np.array([10, 20, 30, 40, 50])
+print(arr4 + 5)
+print(arr4 * 2)
+print(arr4 / 10)
 
-# 4. Last element
-print("Last element:", arr[-1])
-
-# 5. Add 10 to every element
-print("After adding 10:", arr + 10)
-
-# 6. Divide every element by 10
-print("After dividing by 10:", arr / 10)
-
-# 7. Sum
-print("Sum:", arr.sum())
-
-# 8. Mean
-print("Mean:", arr.mean())
+sales = np.array([120, 150, 180, 200, 90])
+print(sales + 100)
