@@ -1,8 +1,6 @@
 # 🔢 NumPy From Zero
 
-A beginner-friendly NumPy learning series built by **KrishnansuCodes**.
-
-The goal is simple: learn NumPy by actually working with numerical data instead of only memorizing functions.
+A beginner-friendly NumPy learning series focused on understanding numerical computing through practical examples and practice.
 
 ## 📚 Learning Path
 
@@ -31,30 +29,26 @@ The goal is simple: learn NumPy by actually working with numerical data instead 
 - Broadcasting
 - Reshaping arrays
 - Working with numerical datasets
-- Using NumPy for data-analysis problems
+- Using NumPy for data analysis and machine learning
 
-## 🛠️ How I Practice
+## 🛠️ Learning Method
 
-Each lesson focuses on a concept and then turns it into practice.
+Each lesson contains:
+
+- `lesson.py` — working examples and explanations
+- `practice.py` — exercises to solve independently
+- `README.md` — concise lesson notes
 
 The progression is:
 
 **learn → practice → solve → build**
 
-The projects combine multiple NumPy concepts instead of treating every function separately.
-
 ## 🎯 Goal
-
-I'm building this repository from beginner level and improving it as I learn.
 
 The goal is not to memorize every NumPy function.
 
-It's to understand **how and why NumPy is used for numerical computing, data analysis, and machine learning.**
+It is to understand **how and why NumPy is used for numerical computing, data analysis, and machine learning.**
 
 ## 🚀 Projects
 
-Projects will be added as I progress through the series.
-
----
-
-**Part of my journey from Python fundamentals to Data Science and AI.**
+Projects will be added as the learning series progresses.
